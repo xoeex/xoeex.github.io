@@ -1,0 +1,13 @@
+Package: com.iosre.iosregreetings
+Version: 2.1.16
+Architecture: iphoneos-arm
+Maintainer: Mohsen <test@fg.com>
+Filename: /iosregreetings.deb
+Size: 1902
+MD5sum: ADEDCBC7193B1011E16CE7276DEC8450
+SHA1: EB84E30ECB04EDC4F297389A92032D8D43B05588
+SHA256: F1F981703D5A52CB4A53A03EEF354E3F193EEE5852C6BCC694E9AA495A6155B6
+Section: Tweaks
+Description: My first Tweak
+Author: Mohsen <test@fg.com>
+Name: FirstApp
